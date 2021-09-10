@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>染责</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/main_tpl.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table width="1000" border="0" align="center">
+  <tbody>
+    <tr>
+      <td id="test_string" style="text-align: center; font-size: 36px;"  class="td1">若是回望心,应是人常在.</td>
+    </tr>
+    <tr>
+      <td height="300" align="left" valign="top"><img src="../images/garden.jpg" width="1000" height="300" alt=""/></td>
+    </tr>
+    <!-- TemplateBeginEditable name="EditRegion3" -->
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-size: 16px; color: #ADA5A5;">CopyRight&copy; tesing_st_XinTian-town_studio&nbsp;&nbsp;&nbsp;&Oslash;</td>
+    </tr>
+    <!-- TemplateEndEditable -->
+  </tbody>
+</table>
+</body>
+</html>

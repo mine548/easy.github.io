@@ -1,0 +1,34 @@
+body{
+    background: #4ECE76;
+    text-align: center;
+    font-size: 18px;
+	
+
+	}
+
+
+.td1{
+  font-size: 18px;
+  font-style: normal;
+  color:rgb(192, 255, 208);
+  text-shadow: 3px 3px 3px greenyellow;
+ 
+}
+
+.button_fir{
+	color:salmon;
+	font-size: 16px;
+	font-weight: bold;
+	background:#63BE30;
+	opacity: 0.8;
+}
+
+.save_me{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-style: italic;
+	color: aqua;
+	text-shadow: 2px 2px 2px #fff000;
+	
+}
